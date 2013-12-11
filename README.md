@@ -1,0 +1,2 @@
+manabo-opsworks-cookbooks
+=========================
